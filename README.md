@@ -1,4 +1,5 @@
-<a href="https://test-i18-3d2lo0hat-alextotalks-projects.vercel.app/uk"> test-i18t-alextotalks-projects.vercel.app/uk</a>
+<a href="https://test-i18-3d2lo0hat-alextotalks-projects.vercel.app/uk" target="_blank"> test-i18t-alextotalks-projects.vercel.app/uk</a>
+
 
 
 У цьому проєкті була додана підтримка зміни мови для роботи з міжнародною аудиторією. Основні кроки для реалізації включали наступне:
